@@ -1,4 +1,4 @@
-# anti-sleep-detector-project
+# sleep-detector-project
 
 🔌 Components Used
 
